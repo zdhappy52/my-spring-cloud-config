@@ -1,5 +1,3 @@
-profile: test
 spring:
-  profiles: test
   application:
     name: test-cloud-test
