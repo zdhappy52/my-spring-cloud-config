@@ -1,4 +1,4 @@
 spring:
-  profiles: test
+  profiles: dev
   application:
     name: test-cloud-test
